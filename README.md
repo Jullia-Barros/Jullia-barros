@@ -1,8 +1,7 @@
 ### Hello, Welcome!! I'm Jullia Barros 👋
 
 
-- 📚 Estudante de programação
-- 💻 Futura hacker
+- 💻 Estudante de programação
 - 😄 Pronouns: Ela/dela
 
 <div align="center">
